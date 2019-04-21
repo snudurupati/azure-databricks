@@ -1,2 +1,2 @@
 # azure-databricks
-Intro to Spark in Azure Databricks
+Intro to Spark on Azure Databricks
